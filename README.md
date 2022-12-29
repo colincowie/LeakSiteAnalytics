@@ -22,4 +22,4 @@ The most recent leak site data from RansomWatch can downloaded for their reposit
 ## Further Reading
 
 The following blog post contains information on how ChatGPT was used in this project:
-- [blog]()
+- [blog](https://www.th3protocol.com/2022/ChatGPT-LeakSite-Analysis)
