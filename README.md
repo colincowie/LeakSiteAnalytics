@@ -16,8 +16,10 @@ The following blog post contains information on how ChatGPT was used in this pro
 
 ## Usage
 
-### All-In-One Dashboard
+#### Prerequisites 
+Plotly is required and can be installed via PyPi. `python3 -m pip install plotly`
 
+### All-In-One Dashboard
 
 The script [run_all.py](https://github.com/colincowie/LeakSiteAnalytics/blob/master/run_all.py) performs the following actions:
 1. Downloads the most recent data from RansomWatch
@@ -30,7 +32,8 @@ The following standalone scripts can be leveraged to create a single data visual
 - [Heatmap](https://github.com/colincowie/LeakSiteAnalytics/blob/master/visualizations/heatmap.py)
 - [Scatter Graph](https://github.com/colincowie/LeakSiteAnalytics/blob/master/visualizations/scatter_graph.py)
 
-The most recent leak site data from RansomWatch can downloaded for their repository:
-- [https://github.com/joshhighet/ransomwatch/blob/main/posts.json](https://github.com/joshhighet/ransomwatch/blob/main/posts.json)
+> Note: `posts.json` must be placed into the `LeakSiteAnalytics` folder for these scripts to work.
+> The most recent leak site data from RansomWatch can downloaded for their repository:
+> - [https://github.com/joshhighet/ransomwatch/blob/main/posts.json](https://github.com/joshhighet/ransomwatch/blob/main/posts.json)
 
-`posts.json` must be placed into the `LeakSiteAnalytics` folder for these scripts to work.
+
