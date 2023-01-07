@@ -7,7 +7,7 @@ This repository contains a collection of scripts that use Plotly to perform data
 ## Acknowledgments
 The raw data used is provided by [RansomWatch](https://ransomwatch.telemetry.ltd).
 
-OpenAI's [OpenAI's ChatGPT](https://chat.openai.com/chat) was involved the production of these scripts.
+OpenAI's [ChatGPT](https://chat.openai.com/chat) was involved the production of these scripts.
 
 ### Further Reading about ChatGPT's usage
 
