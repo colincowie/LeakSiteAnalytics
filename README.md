@@ -2,6 +2,9 @@
 
 This repository contains a collection of scripts that use Plotly to perform data visualization of ransomware leak site postings.
 
+![Dashbard](demo.png)
+
+
 - [Bar Graph](https://github.com/colincowie/LeakSiteAnalytics/blob/master/visualizations/bar_graph.py)
 - [Heatmap](https://github.com/colincowie/LeakSiteAnalytics/blob/master/visualizations/heatmap.py)
 - [Scatter Graph](https://github.com/colincowie/LeakSiteAnalytics/blob/master/visualizations/scatter_graph.py)
